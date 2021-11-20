@@ -1,0 +1,32 @@
+*, *::before, *::after{ box-sizing: border-box; }
+
+h1{
+    background-color: #111111;
+    color: #FFFFFF;
+    font-size: 24px;
+    text-align: center;
+    padding: 32px 0 32px 0;
+}
+
+h2{
+    font-size: 18px;
+    color: #111111;
+    text-align: center;
+    padding-bottom: 34px;
+}
+
+div{
+    background-color: #F1F1F1;
+    width: 960px;
+    padding: 55px 60px 64px 60px;
+    margin: 64px auto 64px auto;
+}
+
+p{
+    background-color: #111111;
+    color: #FFFFFF;
+    font-size: 24px;
+    text-align: center;
+    padding: 32px 0 32px 0;
+}
+
